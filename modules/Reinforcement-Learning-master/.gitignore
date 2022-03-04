@@ -1,0 +1,5 @@
+.python-version
+***.pyc
+**.ipynb_checkpoints/
+.idea
+.DS_STORE
